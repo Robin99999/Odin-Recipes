@@ -1,3 +1,3 @@
 # Odin-Recipes
 
-A few cooking recipes. Using this project to improve base knowledge of html!
+A few cooking recipes. Using this project to improve base knowledge of html and css!
